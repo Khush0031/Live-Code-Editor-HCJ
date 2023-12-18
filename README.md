@@ -1,5 +1,5 @@
 # Live-Code-Editor-HCJ
-- A Basic Live Code HTML CSS JavaScript Editor Using Basic  HTML CSS JavaScript.
+- A Basic Live Code HTML CSS JavaScript Editor Using Basic  HTML CSS.
 - (Check Live Demo Here)[https://khush0031.github.io/Live-Code-Editor-HCJ/]
 ## Output Image.
 
